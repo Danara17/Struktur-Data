@@ -99,6 +99,7 @@ int main(){
 		}
 		getch(); 	
 	}
+	
 	cout << "Program By Paijo Gimang (Danara Slurd)";
 	cin.get();
 	return 0;
